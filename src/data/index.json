@@ -1,0 +1,87 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": " I have mastered the art of front-end developent through html,css and javascript and using their framework (React.js, bootstrap)."
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": " My expertise includes  back-end technologies (Node.js, Python), allowing me to create full-stack solutions tailored to real-world needs. though iam still learning."
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "UI & UX Design",
+        "description": "I’m a UI/UX designer passionate about creating intuitive, user-centered designs. With expertise in wireframing, nocode development "
+      },
+      {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "Webflow Development",
+        "description": "I’m a web developer with a passion for building fast, responsive, and user-friendly website and applications."
+      }
+    ],
+    "portfolio": [
+        {
+          "id": "1",
+          "src": "./img/placeholder-image.png",
+          "title": "bootcamp website",
+          "description": "44paid is an intensive, hands-on training program designed to turn beginners into job-ready professionals  web development and UX design. ",
+          "link": "View In Github",
+          "linkUrl": "https://github.com/Edwinmwangi-44paid/bootcamp-website"
+        },
+        {
+          "id": "2",
+          "src": "./img/placeholder-image-1.png",
+          "title": "App Dashboard",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+          "link": "View In Github",
+          "linkUrl": "https://github.com/Edwinmwangi-44paid"
+          
+        },
+        {
+          "id": "3",
+          "src": "./img/placeholder-image-2.png",
+          "title": "Easy Rentn",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+          "link": "View In Github",
+          "linkUrl": "https://github.com/Edwinmwangi-44paid/"
+        }
+      ],
+      "testimonial": [
+        {
+          "id": "1",
+          "count": "5",
+          "src": "./img/avatar-image.png",
+          "description": "Working with Edwin was an absolute game-changer for our project!  I highly recommend his services to anyone looking for top-tier quality and professionalism.",
+          "author_name": "Dianne Russel",
+          "author_designation": "Starbucks"
+        },
+        {
+          "id": "2",
+          "count": "5",
+          "src": "./img/avatar-image-1.png",
+          "description": "I can’t say enough good things about Edwin! From day one, they understood exactly what we needed and went above and beyond to make it happen.",
+          "author_name": "Kristin Watson",
+          "author_designation": "Louis Vuitton"
+        },
+        {
+          "id": "3",
+          "count": "5",
+          "src": "./img/avatar-image-2.png",
+          "description": "10/10 recommend! Fast, talented, and professional. Our delivery app is now more intuitive and visually stunning thanks to Edwin.",
+          "author_name": "Kathryn Murphy",
+          "author_designation": "McDonald's"
+        }
+      ]
+    
+
+    
+
+
+}
+
