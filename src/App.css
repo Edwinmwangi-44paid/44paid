@@ -766,4 +766,46 @@ input[type="checkbox"] {
   }
 }
 
+
+
+@media screen and (max-width: 415px) {
+  .skills--section--card {
+    display: flex;
+    padding: 32px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    flex: 1 0 0;
+    border-radius: 10.6px;
+    background: var(--bg-shade);
+    min-height: 250px;
+    width: 290px;
+    
+  }
+  .hero--section--content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 21.333px;
+    width: 290px
+  }
+  .about--section--img{
+    width: 100%;
+  }
+  .portfolio--section--card{
+    width: 290px;
+  }
+  .testimonial--section--card{
+    width: 290px;
+  }
+  .hero--section--content--box{
+    width: 290px;
+  }  
+  .contact--form--container{
+    width: 290px;
+  }
+  
+
+}
+
 /* Responsive Screens Ends*/
