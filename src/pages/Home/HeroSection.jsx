@@ -15,7 +15,7 @@ export default function HeroSection() {
                     <p className="hero--section--description">
                     I'm a passionate developer who loves developing
                         <br />
-                        beautiful UI/UX designs and also intergrating Apis
+                        beautiful UI/UX designs and also intergrating Apis.
                     </p>
                 </div>
                 <a href="https://www.linkedin.com/in/edwin-mwangi-9370b7313/" className="btn  btn-primary">Get In Touch</a> 
